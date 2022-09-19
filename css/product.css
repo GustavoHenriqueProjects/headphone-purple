@@ -18,6 +18,10 @@
     color: #76045D;
 }
 
+.producte__image{
+    width: 50vw;
+}
+
 .product__navegation-container{
     display: flex;
 }
